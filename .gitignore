@@ -1,0 +1,4 @@
+lab3/.venv/
+pycache/
+.pyc
+.log

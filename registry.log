@@ -1,0 +1,17 @@
+ * Serving Flask app 'registry'
+ * Debug mode: off
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8500
+ * Running on http://192.168.1.135:8500
+[33mPress CTRL+C to quit[0m
+127.0.0.1 - - [19/Mar/2026 02:08:57] "[35m[1mPOST /register HTTP/1.1[0m" 201 -
+127.0.0.1 - - [19/Mar/2026 02:08:57] "[35m[1mPOST /register HTTP/1.1[0m" 201 -
+127.0.0.1 - - [19/Mar/2026 02:08:58] "GET /services/demo-service HTTP/1.1" 200 -
+127.0.0.1 - - [19/Mar/2026 02:08:59] "GET /services/demo-service HTTP/1.1" 200 -
+127.0.0.1 - - [19/Mar/2026 02:08:59] "GET /services/demo-service HTTP/1.1" 200 -
+127.0.0.1 - - [19/Mar/2026 02:09:00] "GET /services/demo-service HTTP/1.1" 200 -
+127.0.0.1 - - [19/Mar/2026 02:09:00] "GET /services/demo-service HTTP/1.1" 200 -
+127.0.0.1 - - [19/Mar/2026 02:09:01] "GET /services/demo-service HTTP/1.1" 200 -
+127.0.0.1 - - [19/Mar/2026 02:09:01] "GET /services/demo-service HTTP/1.1" 200 -
+127.0.0.1 - - [19/Mar/2026 02:09:01] "GET /services/demo-service HTTP/1.1" 200 -
