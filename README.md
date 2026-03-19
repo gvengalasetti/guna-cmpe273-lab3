@@ -10,3 +10,11 @@ Microservice with Discovery
 
 
 ![Architecture Diagram](images/diagram.svg)
+
+![Client Output ](images/clientoutput.png)
+
+![Instance 2](images/instance2.png)
+
+![Instance 1](images/instance1.png)
+
+![Registry](images/registry.png)
