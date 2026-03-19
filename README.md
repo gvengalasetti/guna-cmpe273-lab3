@@ -7,3 +7,6 @@ Microservice with Discovery
 • Register with registry
 • Client discovers service
 • Client calls random instance
+
+
+![Architecture Diagram](images/diagram.svg)
